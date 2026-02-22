@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lumina</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header>
+    <img src="images/logo-lumina.png" alt="Lumina Logo">
+    <h1>Welcome to Lumina</h1>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>About Lumina</h2>
+      <p>Lumina is your trusted partner in creating innovative solutions. We combine technology and creativity to deliver exceptional results for our clients worldwide.</p>
+    </section>
+
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Web Design & Development</li>
+        <li>Branding & Graphic Design</li>
+        <li>Digital Marketing Strategies</li>
+        <li>Consulting & Innovation</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Have questions or want to work together? Reach out to us!</p>
+      <a href="mailto:info@lumina.com" class="cta-button">Email Us</a>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2026 Lumina. All rights reserved.
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
